@@ -8,7 +8,7 @@
 
 (beam){
   BEAM_1 =  2212;
-  BEAM_2 =  -2212;
+  BEAM_2 =  2212;
 
   BEAM_ENERGY_1 = 6500.;
   BEAM_ENERGY_2 = 6500.;    
@@ -18,5 +18,3 @@
   Process 93 93 -> 11 -11
   End process
 }(processes)
-
-
